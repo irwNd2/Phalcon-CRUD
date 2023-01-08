@@ -12,7 +12,7 @@ $di->set('db', function () {
         'host' => 'localhost',
         'username' => 'root',
         'password' => 'mariadb',
-        'dbname' => 'chatgpt',
+        'dbname' => 'phalcon-practice',
     ]);
 });
 
